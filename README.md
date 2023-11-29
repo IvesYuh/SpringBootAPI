@@ -1,4 +1,4 @@
-# SpringBootAPI
+# API Restful
 
  Estrutura do projeto Spring Boot
  Conexão com a base de dados Postgres
